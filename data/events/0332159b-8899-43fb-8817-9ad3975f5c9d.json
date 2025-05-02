@@ -1,9 +1,9 @@
 {
   "audiovisual_files": {
     "45755df8-5b68-47fb-916d-9141a55f12d6": {
-      "label": "file:///Users/christianbarrera/Downloads/4530%20W%20Guadalupe%20St%203.mp3",
+      "label": "Audio Recording",
       "is_offline": false,
-      "file_url": "file:///Users/christianbarrera/Downloads/4530%20W%20Guadalupe%20St%203.mp3",
+      "file_url": "https://archive.org/details/4530-w-guadalupe-st-3",
       "duration": 359,
       "caption_set": []
     }
@@ -24,6 +24,6 @@
   "label": "Displaced",
   "created_at": "2025-05-02T03:44:31.370Z",
   "created_by": "Cabarrera0914",
-  "updated_at": "2025-05-02T03:50:58.118Z",
+  "updated_at": "2025-05-02T04:04:07.632Z",
   "updated_by": "Cabarrera0914"
 }
